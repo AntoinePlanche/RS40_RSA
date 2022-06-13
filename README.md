@@ -10,7 +10,6 @@ Sinon rendez-vous sur le site https://www.python.org/downloads/ pour le téléch
 Assurez d'avoir les bibliothèques nécessaires installées en tapant dans votre invite de commande :
 
 ```
-
  pip install -r requirements.txt
 ```
 
