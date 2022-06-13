@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 17 13:44:40 2020
-
-@author: Mr ABBAS-TURKI
-"""
-
 
 
 import hashlib
